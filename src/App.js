@@ -7,7 +7,7 @@ class App extends Component{
         super(props);
         this.state = {
             numero: 0,
-            botao: 'VAI '
+            botao: 'VAI'
         };
    
         this.timer = null;
