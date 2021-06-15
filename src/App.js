@@ -9,7 +9,7 @@ class App extends Component{
             numero: 0,
             botao: 'VAI'
         };
-
+   
         this.timer = null;
         this.vai = this.vai.bind(this);
         this.limpar= this.limpar.bind(this);
